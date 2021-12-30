@@ -1,0 +1,34 @@
+id,first_name,last_name,gender,date_of_birth,email,country_of_birth,car_id,id,make,model,price
+1,Jameson,Ramelet,M,2021-05-08,jramelet0@example.com,China,3,3,Hyundai,Genesis Coupe,41358.65
+3,Griffin,Devinn,M,2021-11-16,,China,4,4,Ford,Fusion,10791.07
+4,Arley,Fosdike,M,2021-06-18,afosdike3@parallels.com,Argentina,6,6,Toyota,sienna,77124.59
+7,Gustave,Donwell,M,2021-10-11,,Iran,18,18,Pontiac,Firefly,83563.55
+8,Sasha,Wingeatt,M,2021-06-07,swingeatt7@discuz.net,Portugal,52,52,Pontiac,Grand Am,72082.29
+9,Huberto,Rodell,M,2020-12-25,hrodell8@dyndns.org,China,51,51,Toyota,sequoia,47736.40
+12,Sigismund,Krauss,M,2021-06-13,skraussb@mapy.cz,Brazil,43,43,Nisan,Quest,31938.89
+13,Sebastiano,McElroy,M,2021-09-01,smcelroyc@loc.gov,Ghana,39,39,Chrysler,Town & Country,13468.08
+14,Isaak,Itter,M,2021-10-19,iitterd@sciencedaily.com,Brazil,10,10,Infiniti,G37,24842.52
+15,Briano,Lumm,M,2021-07-18,blumme@latimes.com,Pakistan,7,7,GMC,suburban 1500,82815.16
+19,Turner,Dilley,M,2021-02-03,tdilleyi@cam.ac.uk,Tanzania,25,25,Mercury,sable,49144.18
+21,Dick,Bellamy,M,2021-04-29,dbellamyk@nih.gov,China,12,12,Ford,Mustang,67826.76
+22,Kaleb,Mitchelmore,M,2021-07-24,kmitchelmorel@wikispaces.com,Indonesia,29,29,Porsche,911,47473.28
+25,Rodrigo,Goudge,M,2021-07-10,,Kazakhstan,32,32,spyker,C8 spyder Wide Body,43707.61
+26,Chevalier,Ghidoli,M,2021-07-16,cghidolip@intel.com,Colombia,38,38,Plymouth,Acclaim,62979.52
+30,Mackenzie,Lavery,M,2021-04-25,,Canada,47,47,Audi,Cabriolet,29099.69
+35,Finn,Cominotti,M,2021-07-26,,Indonesia,33,33,GMC,2500 Club Coupe,96010.19
+37,Aylmar,Lafontaine,M,2021-09-02,,Portugal,23,23,Buick,Riviera,16788.04
+39,Cosimo,Wannan,M,2021-07-13,cwannan12@istockphoto.com,Finland,22,22,Toyota,RAV4,92207.30
+40,Ansell,O'Haire,M,2021-03-19,aohaire13@deviantart.com,Russia,24,24,Ford,GT,73712.18
+41,Bartholomeo,Danielou,M,2021-01-11,,China,13,13,Mazda,MX-5,88017.66
+42,Jeffry,Belton,M,2021-02-15,jbelton15@gmpg.org,China,14,14,Ford,F350,26068.11
+46,Pace,Ledgeway,M,2021-11-04,pledgeway19@lulu.com,Uruguay,27,27,Pontiac,Grand Prix,12935.32
+48,Reube,McRobbie,M,2021-10-21,rmcrobbie1b@dropbox.com,Kosovo,44,44,Volvo,240,35413.86
+49,Tan,Shoesmith,M,2021-08-25,,Albania,45,45,Audi,4000s,55937.63
+52,Spike,Blabie,M,2021-01-22,sblabie1f@dion.ne.jp,Greece,37,37,subaru,Legacy,19919.80
+55,Clemente,Broszkiewicz,M,2021-05-17,,Russia,60,60,Mercedes-Benz,E-Clas,99322.04
+56,Gray,Plaxton,M,2021-05-11,gplaxton1j@blogs.com,Argentina,61,61,GMC,Envoy XL,14225.76
+67,Addie,Arlt,M,2021-04-26,,Nigeria,67,67,Jaguar,s-Type,52823.81
+82,Tremayne,Luten,M,2021-09-28,,Cambodia,63,63,Lotus,Esprit,28967.48
+83,Thedric,Gini,M,2021-04-09,,Indonesia,64,64,GMC,Jimmy,28476.97
+90,Gannon,Polotti,M,2021-01-31,,Thailand,56,56,Volvo,s90,86242.46
+94,Hasheem,Trusdale,M,2021-11-12,,Indonesia,65,65,Volkswagen,Pasat,80212.52
